@@ -9,8 +9,12 @@ have spent too much)
 In the beginning of the game the player is located on one of the two maps near the vending machine, where they may buy different items. While moving around the maps, the user may interact with dinosaurs, find items, such as fruits, hay, etc and earn or spend eco point by performing various actions.
 
 ## To run the application
-In order to run the application, you should run the ``` Application.java ``` file, which may be found in ```src/game```.
+All the codes that were created throughout the development process may be found in the ```src/game``` folder.
+In order to run the application, you should run the ``` Application.java ``` file.
 
 ## Documentation
-
-
+In the documentation folder there are following documents:
+- Class diagram
+- Sequence diagrams 
+- Documentation files, which are divided into three different documents for each stage of development.
+- Improvements on engine, which is a document explaining what are the improvements to be made to the files in ```src/edu```
